@@ -1,6 +1,6 @@
 # reselect
 
-## witout-reselect
+## without-reselect
 
 ```js
 const mapStateToProps = state => {
@@ -58,7 +58,7 @@ const mapStateToProps = state => {
 };
 ```
 
-## with-reselect-propps
+## with-reselect-props
 
 - `selector` 함수는 **상탯값 외에도 속성값을 입력으로 받을 수 있다.**
 - selector 함수에서 속성값을 이용하면 컴포넌트의 각 인스턴스에 특화된 값을 반환할 수 있다.

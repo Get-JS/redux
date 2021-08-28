@@ -1,7 +1,7 @@
 # redux
 
 - [문서](https://redux.js.org/)
-- [참고]()
+- [redux-toolkit](https://redux-toolkit.js.org/)
 
 - 전역 state 관리
 - 비동기 로직 관리
@@ -32,15 +32,15 @@
     - connect
       - mapStateToProps, mapDispatchToProps, Defining mapDispatchToProps As Object Type
   - [Hooks](react-redux/Hooks.md)
-    - reudx Hooks
+    - redux Hooks
 
 - [reselect](reselect)
 
   - [without-reselect](reselect/without-reselect)
   - [with-reselect](reselect/with-reselect)
-    - when calculate in mapStateToProps, memozation
+    - when calculate in mapStateToProps, memoization
   - [with-reselect-props](reselect/with-reselect-props)
-    - when create Instance to common Component for select function occur bug, sol. closure Function(memozation)
+    - when create Instance to common Component for select function occur bug, sol. closure Function(memoization)
 
 - [redux-thunk](redux-thunk)
 
@@ -51,4 +51,8 @@
   - [with-redux-saga](redux-saga/with-redux-saga)
   - [with-redux-saga-exception](redux-saga/with-redux-saga-exception)
 
+# practice
+
 - [redux-classComponent](redux-classComponent)
+  
+  - 페이지 네이션 기법 참고  
