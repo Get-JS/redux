@@ -50,3 +50,5 @@
 
   - [with-redux-saga](redux-saga/with-redux-saga)
   - [with-redux-saga-exception](redux-saga/with-redux-saga-exception)
+
+- [redux-classComponent](redux-classComponent)
